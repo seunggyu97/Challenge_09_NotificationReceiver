@@ -181,3 +181,37 @@ Firebase Cloud Messaging을 이용한 푸시알림 테스트용 어플이다.
                             
 ## 실행화면
 
+▼ 앱 초기 실행 시 앱 런처로 실행했다고 표시한다.
+
+<img src="https://user-images.githubusercontent.com/74666576/154781671-15d45708-bb2d-4081-9649-152378b4de9e.jpg" width="270" height="500">
+
+
+▼ NORMAL Type의 알림 수신
+
+<img src="https://user-images.githubusercontent.com/74666576/154781685-5c63029f-24f5-465d-8c9c-9ceacc59eb05.jpg" width="270" height="500">
+
+
+▼ EXPANDABLE Type의 알림 수신과 알림을 펼쳤을 때
+
+<img src="https://user-images.githubusercontent.com/74666576/154781712-3fca90f7-eb63-4623-8b43-dca0fa4fd9cf.jpg" width="270" height="500"><img src="https://user-images.githubusercontent.com/74666576/154781700-0cbd3efa-2222-45bf-b635-7bed3efb5205.jpg" width="270" height="500">
+
+
+▼ CUSTOM Type의 알림 수신
+
+<img src="https://user-images.githubusercontent.com/74666576/154781703-a1e40b46-226c-47ed-a00b-6de09cda321b.jpg" width="270" height="500">
+
+
+▼ NORMAL Type의 알림을 클릭하여 앱을 실행했을 때
+
+<img src="https://user-images.githubusercontent.com/74666576/154781692-af6af581-7351-49c3-ba1b-196a3fc4bfbe.jpg" width="270" height="500">
+
+
+▼ EXPANDABLE Type의 알림을 클릭하여 앱을 실행했을 때
+
+<img src="https://user-images.githubusercontent.com/74666576/154781720-9d5c4b76-15b9-4651-b109-9d07d613307d.jpg" width="270" height="500">
+
+
+▼ CUSTOM Type의 알림을 클릭하여 앱을 실행했을 때
+
+<img src="https://user-images.githubusercontent.com/74666576/154781721-aecd3fc7-998a-4473-b3ca-f7139779bcf1.jpg" width="270" height="500">
+
